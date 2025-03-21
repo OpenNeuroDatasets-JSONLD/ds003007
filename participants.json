@@ -97,7 +97,7 @@
         "Label": ""
       },
       "IsPartOf": {
-        "TermURL": "cogatlas:trm_4f24211a03b07",
+        "TermURL": "snomed:718148002",
         "Label": ""
       }
     }
@@ -223,16 +223,6 @@
   },
   "Edinburgh": {
     "Description": "Edinburgh Handedness Inventory",
-    "Units": "scores",
-    "Annotations": {
-      "IsAbout": {
-        "TermURL": "nb:Assessment",
-        "Label": ""
-      },
-      "IsPartOf": {
-        "TermURL": "cogatlas:tsk_4a57abb949a41",
-        "Label": ""
-      }
-    }
+    "Units": "scores"
   }
 }
